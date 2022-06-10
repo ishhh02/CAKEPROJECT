@@ -22,9 +22,10 @@ public class CakeInfo {
     public void loadFlavours(String flavoursInfoFile) throws IOException {
         // Task 2.1: WRITE YOUR CODE HERE
         
+
     public void loadPriceInfo(String priceInfoFile) throws IOException {
         // Task 2.2: WRITE YOUR CODE HERE
-        
+       
     /*returns the cake price of a cake*/
     public float calCakePrice(Cake cake) { 
 	// Task 2.3: WRITE YOUR CODE HERE 
